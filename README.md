@@ -11,5 +11,5 @@ Then install the script requirements where the .py file is located:
 python -m pip install -r requirements.txt
 ```
 # How to use 
-Just follow the steps. It's inportant that you don't write the "\" as the final character in your directory
+Just follow the steps. It's important that you don't write the "\" as the final character in your directory
 [![Captura-de-pantalla-2022-12-03-145502.jpg](https://i.postimg.cc/NfwMS4hw/Captura-de-pantalla-2022-12-03-145502.jpg)](https://postimg.cc/Z0V4y6Kf)
