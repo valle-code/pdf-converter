@@ -19,10 +19,7 @@ images = os.listdir(path)
 
 
 def is_zip(image_name):
-    if image_name.endswith(".zip"):
-        return True
-    else:
-        return False
+    return image_name.endswith(".zip")
 
 def unzip(path, images):
     for i in range(len(images)):
@@ -93,6 +90,3 @@ def run(pdf, width, height, path, pdf_name, images, count):
     
 if __name__ == "__main__":
     run(pdf, width, height, path, pdf_name, images, count)
-
-        
-        
